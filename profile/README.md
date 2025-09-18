@@ -23,7 +23,6 @@ This project is licensed under a proprietary license.
 
 > We believe data pipelines should be **declarative, traceable, and analytics-ready by design**.
 
----
 
 ---
 ## 📚 Related Packages
