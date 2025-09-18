@@ -3,6 +3,12 @@
 ### *Data Engineering & Analytics Platform*  
 Building structured, metadata-driven solutions for next-gen data pipelines.
 
+This project is licensed under a proprietary license.
+
+ [![License](https://img.shields.io/badge/license-Proprietary-red)](../../LICENSE.txt)
+
+[![🚀 Build & Publish NuGet Packages](https://github.com/dataprom-online/platform/actions/workflows/publish-nuget.yml/badge.svg)](https://github.com/dataprom-online/platform/actions/workflows/publish-nuget.yml)
+
 ---
 
 ## 🚀 About Us
@@ -17,6 +23,36 @@ Building structured, metadata-driven solutions for next-gen data pipelines.
 
 > We believe data pipelines should be **declarative, traceable, and analytics-ready by design**.
 
+---
+
+---
+## 📚 Related Packages
+- DataProm.Core - provides the foundation for the DataProm ETL platform.
+- DataProm.Sqlite.Core – Native SQLite provider
+- DataProm.Sql.Core – Native Sql provider
+- DataProm.Oracle.Core – Native Oracle provider
+- DataProm.SapHana.Core – Native SapHana provider
+- DataProm.GoogleCloud.Core – Native GoogleCloud.BigQuery provider
+
+## 🧩 Key Features
+* DynamicRecord System
+    - object[] based storage with schema alignment
+    - Fast typed accessors (GetInt32, GetString, etc.)
+    - Works directly with IDataReader
+* Normalization Engine
+    - Global per-property string dictionaries
+    - Integer key storage in records
+    - Automatic SQLite persistence
+* Schema-Driven SQL
+    - Auto-generate CREATE TABLE, INSERT, INDEX, and foreign keys
+    - SQLite and SQL Server support
+* CSV Serialization & Validation
+    - Import/export with validation rules
+    - Separate normalized-property CSVs
+* Diagnostics & Logging
+    - Crash recovery
+    - Startup/shutdown tracking
+    - App + project context awareness
 ---
 
 ## 🧪 Try It Yourself
