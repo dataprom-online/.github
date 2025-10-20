@@ -23,6 +23,13 @@ This project is licensed under a proprietary license.
 
 > We believe data pipelines should be **declarative, traceable, and analytics-ready by design**.
 
+---
+
+<p align="center">
+  <img src="dpm-etl-screen.png" alt="DataProm Platform Overview" width="800"/>
+  <br/>
+  <em>🔍 Example view of the DataProm ETL platform and configuration app</em>
+</p>
 
 ---
 ## 📚 Related Packages
