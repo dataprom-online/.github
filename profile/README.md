@@ -9,6 +9,8 @@ This project is licensed under a proprietary license.
 
 [![🚀 Build & Publish NuGet Packages](https://github.com/dataprom-online/platform/actions/workflows/publish-nuget.yml/badge.svg)](https://github.com/dataprom-online/platform/actions/workflows/publish-nuget.yml)
 
+[![🚀 Publish Release](https://github.com/dataprom-online/etl-app/actions/workflows/publish-executables.yml/badge.svg)](https://github.com/dataprom-online/etl-app/actions/workflows/publish-executables.yml)
+
 ---
 
 ## 🚀 About Us
